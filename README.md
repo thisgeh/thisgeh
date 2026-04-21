@@ -12,7 +12,7 @@
 - 🔍 Trabalhei com **Auditoria de TI** *(estágio)*
 - 📋 Atualmente trabalho com **Gestão de Projetos de TI** *(estágio)*
 - 🌱 Sempre aprendendo e evoluindo na área de tecnologia
-- 🚀 Apaixonado por boas práticas, organização e entrega de valor
+- 🚀 Focada em boas práticas, organização e entrega de valor
 
 ---
 
