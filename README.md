@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, Geisa aqui! 👋
+# Opa, Geisa aqui! 👋
 
 </div>
 
